@@ -1,0 +1,1 @@
+I don't actually don't know what an "amazing" readme should include. I'd just say that this repo is for an html project in alx week 2. 
