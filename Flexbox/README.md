@@ -1,3 +1,3 @@
-Hey there
+Hey there,
 
-This is for an alx flexbox project :)
+This is a readme for alx flexbox project.
