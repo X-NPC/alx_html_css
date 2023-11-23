@@ -263,12 +263,10 @@
          position: relative;
          z-index: 3;
          background: transparent;
-  }
-  
-  .header .container {
     align-items: center;
   }
-
+  
+  
   .header-logo {
     position: var(--header-logo-position);
   }
